@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS5001-p4-vector-drawing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS5001_p4_vector_drawing_jar</output-path>
+    <root id="archive" name="CS5001-p4-vector-drawing.jar">
+      <element id="module-output" name="CS5001-p4-vector-drawing" />
+    </root>
+  </artifact>
+</component>
